@@ -1,0 +1,5 @@
+flask
+flask-login  # модуль логирования пользователей
+flask-sqlalchemy  # обертка SQL для работы с БД
+flake8  # линтер python
+ 
