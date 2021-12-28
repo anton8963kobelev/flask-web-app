@@ -1,6 +1,5 @@
 from website import create_app
 
-
 app = create_app()
 
 # при запуске файла напрямую, имя == 'main' - будет запущен локальный сервер.
